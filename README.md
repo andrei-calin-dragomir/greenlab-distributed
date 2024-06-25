@@ -1,7 +1,7 @@
 # greenlab-docker-swarm
 ![Swarm Monitoring Deployment Status](https://img.shields.io/badge/Monitoring-deployable-brightgreen)
 ![Swarm Autoscaler Deployment Status](https://img.shields.io/badge/Autoscaler-deployable-brightgreen)
-![Swarm Test Runner Deployment Status](https://img.shields.io/badge/TestRunner-workinprogress-yellow)
+![Swarm Experiment Runner Interface Deployment Status](https://img.shields.io/badge/ExperimentRunner-workinprogress-yellow)
 ![Swarm Migrator Deployment Status](https://img.shields.io/badge/Migrator-theoretical-lightgrey)
 
 ## Swarm Configuration (GreenLab)
